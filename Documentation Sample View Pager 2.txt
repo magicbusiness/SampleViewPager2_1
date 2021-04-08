@@ -1,0 +1,7 @@
+To use View Pager 2
+1. Implement new dependencies -> implementation 'com.tbuonomo.andrui:viewpagerdotsindicator:4.1.2'
+2. Next make modal, adapter, and xml for ViewPager2
+3. Make sure in adapter class adapter is < class and inner class >
+4. For file xml make sure root layout width and height is match parrent, 
+    this is for recomendation using ViewPager2
+5. Next Implement ViewPager and Indicator
